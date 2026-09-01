@@ -36,8 +36,7 @@ Content creators and marketers often write one piece of long-form content and th
 
 3. **Add your API key**
    - Get a key from [console.anthropic.com](https://console.anthropic.com)
-   - Rename `.env.example` to `.env`
-   - Open `.env` and add your key:
+   
      ```
      ANTHROPIC_API_KEY=your-key-here
      ```
